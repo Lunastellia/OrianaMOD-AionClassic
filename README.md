@@ -1,12 +1,12 @@
 # OrianaMOD-AionClassic
-##Avertissement
+## Avertissement
 
 /!\ Cette version (OrianaGUI 1.0.2 + Patch Fr + Langue KR) n'est pas une version officielle du jeu AION et n'est pas affiliée à Ncsoft,
 le contenu du jeu est la propriété exclusive de Ncsoft.
 Toute utilisation du Patch / Modifications du jeu vous expose potentiellement à des sanctions (Perte de votre compte),
 en utilisant ce MOD vous consentez à prendre se risque.
 
-##Installation
+## Installation
 
 /!\ Attention je vous recommande de faire une copie du jeu avant de patcher au cas ou vous souhaiteriez revenir en arrière sans devoir tout réinstaller.
 Télécharger la dernière version :
@@ -15,7 +15,7 @@ Déplacer l'archive "OrianaPatch+version".zip dans le dossier AION_CLASSIC.
 Faites Click droit puis extraire ici. Accepter de remplacer les fichiers déjà existant pour patcher le jeu.
 
 
-##Patch-Note
+## Patch-Note
 ### Interface
 * Modifications de la police d'écriture général du jeu : Vera > Hansrf.
 * Modification de l'interface V4 : V4.2 (Thème Soft Purple).
