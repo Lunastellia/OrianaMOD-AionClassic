@@ -14,6 +14,9 @@ Localiser le dossier AION_CLASSIC préalablement installer (client CLassic NA),
 Ensuite, Déplacer les fichiers (.zip) que vous avez choisie ci dessous dans le dossier AION_CLASSIC.
 Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter de remplacer les fichiers déjà existant pour patcher le jeu.
 
+### AION Classic Patch FR 
+* Patch FR : 
+
 ### Patch de voix de jeu (un seul au choix) :
 * Pack de voix coréen : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VKor/AionCLassic-PatchKR-Voix.zip
 * Pack de voix Japonaise : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VJap/AionCLassic-PatchJP-Voix.zip
