@@ -22,7 +22,7 @@ Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter
 * Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/10.2GUI/OrianaGUI-1.0.2.zip
 
 ### AION (Facultatif) Patch Font/Police (un seul au choix) :
-* Patch Small Hansrf : ...
+* Patch Small Hansrf : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0FT1/AionClassicPatchFont-1-Hansrf.zip
 
 ### AION (Facultatif) Patch de cinématiques FR (un seul au choix) :
 * Cinématiques : https://www.mediafire.com/file/eooazt3ebaiod7o/AionClassic-PatchFR-Cin%C3%A9matiques+-+Copie.zip/file
