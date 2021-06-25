@@ -14,20 +14,24 @@ Localiser le dossier AION_CLASSIC préalablement installer (client CLassic NA),
 Ensuite, Déplacer les fichiers (.zip) que vous avez choisie ci dessous dans le dossier AION_CLASSIC.
 Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter de remplacer les fichiers déjà existant pour patcher le jeu.
 
-### AION Classic Patch FR - Fichiers principaux à télécharger ! Compatible MàJ du 23.06.2021
-* Patch FR Normal : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.0PFR/AionCLassic-PatchFR-Lang-1.1.0.zip
+### AION (Obligatoir) Classic Patch FR - Fichiers principaux à télécharger ! Compatible MàJ du 23.06.2021
+* Patch Principal FR : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.0PFR/AionCLassic-PatchFR-Lang-1.1.0.zip
+* Patch Prncipal EN : ...Work in progress...
 
-### AION Patch Gui Oriana
+### AION (Facultatif) Patch Gui Oriana (un seul au choix) :
 * Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/10.2GUI/OrianaGUI-1.0.2.zip
 
-### Patch de cinématiques FR 
+### AION (Facultatif) Patch Font/Police (un seul au choix) :
+* Patch Small Hansrf : ...
+
+### AION (Facultatif) Patch de cinématiques FR (un seul au choix) :
 * Cinématiques : https://www.mediafire.com/file/eooazt3ebaiod7o/AionClassic-PatchFR-Cin%C3%A9matiques+-+Copie.zip/file
 
-### Patch de voix de jeu (un seul au choix) :
+### AION (Facultatif) Patch de voix de jeu (un seul au choix) :
 * Pack de voix coréen : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VKor/AionCLassic-PatchKR-Voix.zip
 * Pack de voix Japonaise : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VJap/AionCLassic-PatchJP-Voix.zip
 
-### Patch Music Login
+### AION (Facultatif) Patch Music Login (un seul au choix) :
 * Tower Of Eternity :  https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0B/AionOriginalLogin.zip
 
 
@@ -43,7 +47,7 @@ Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter
 
 
 ### Audio
-* Modification de la Music du Login :[AION OST] The Tower Of Eternity (Patch Music login)
+* Modification de la Music du Login : Custom via :  Patch Music Login
 * Modification des voix/Cinématiques du jeu : Langue coréene/Japonaises (Fichiers audio KR télécharger ici : https://github.com/xan105/Aion-Japanese-Voice-Pack Merci a "Xan105" (Pack de voix Kor/Jap)
 
 ### Traduction FR
