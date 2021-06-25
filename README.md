@@ -19,7 +19,7 @@ Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter
 * Patch Prncipal EN : ...Work in progress...
 
 ### AION (Facultatif) Patch Gui Oriana - Interface en jeu (un seul au choix) :
-* Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/10.2GUI/OrianaGUI-1.0.2.zip
+* Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.2GUI/OrianaGUI-1.0.2.zip
 
 ### AION (Facultatif) Patch Font/Police (un seul au choix) :
 * Patch Small Hansrf : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0FT1/AionClassicPatchFont-1-Hansrf.zip
