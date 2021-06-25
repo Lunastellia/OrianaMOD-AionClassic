@@ -14,9 +14,11 @@ Localiser le dossier AION_CLASSIC préalablement installer (client CLassic NA),
 Ensuite, Déplacer les fichiers (.zip) que vous avez choisie ci dessous dans le dossier AION_CLASSIC.
 Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter de remplacer les fichiers déjà existant pour patcher le jeu.
 
-### AION Classic Patch FR (un seul au choix)
-* Patch FR Normal : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.1PFR/AionCLassic-PatchFR-Lang.zip
-* Patch FR + OrianaGUI : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/10.2GUI/OrianaGUI-1.0.2.zip
+### AION Classic Patch FR - Fichiers principaux à télécharger ! Compatible MàJ du 23.06.2021
+* Patch FR Normal : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.0PFR/AionCLassic-PatchFR-Lang-1.1.0.zip
+
+### AION Patch Gui Oriana
+* Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/10.2GUI/OrianaGUI-1.0.2.zip
 
 ### Patch de cinématiques FR 
 * Cinématiques : https://www.mediafire.com/file/eooazt3ebaiod7o/AionClassic-PatchFR-Cin%C3%A9matiques+-+Copie.zip/file
