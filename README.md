@@ -30,6 +30,9 @@ Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter
 ### AION (Facultatif) Patch de cinématiques (un seul au choix) :
 * Cinématiques FR : https://www.mediafire.com/file/eooazt3ebaiod7o/AionClassic-PatchFR-Cin%C3%A9matiques+-+Copie.zip/file
 
+### AION (Facultatif) Patch de FOG (un seul au choix) :
+* Patch Désactivation des Fogs (Map) : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.0FOG/AionCLassic-Patch-Fog.zip
+
 ### AION (Facultatif) Patch de voix de jeu (un seul au choix) :
 * Pack de voix coréen : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VKor/AionCLassic-PatchKR-Voix.zip
 * Pack de voix Japonaise : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0VJap/AionCLassic-PatchJP-Voix.zip
