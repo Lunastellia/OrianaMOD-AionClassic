@@ -23,6 +23,7 @@ Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter
 
 ### AION (Facultatif) Patch Gui ColorNames - Interface en jeu Changement de couleurs des Noms (un seul au choix) :
 * Patch Joueur ennemis (pvp) en Jaune : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.1CN/AionCLassic-PatchColorNames1.zip
+* Patch Joueur Groupe : Vert, Ligue/Raid : bleu, Perso : Violet, Mob Agro orange différent des joueurs PvP rouge (Radar) : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/tag/1.0.2CN
 
 ### AION (Facultatif) Patch Font/Police (un seul au choix) :
 * Patch Small Hansrf : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.0FT1/AionClassicPatchFont-1-Hansrf.zip
