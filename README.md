@@ -15,8 +15,8 @@ Ensuite, Déplacer les fichiers (.zip) que vous avez choisie ci dessous dans le 
 Faites Click droit puis extraire ici pour chaqu'un des fichiers (.zip). Accepter de remplacer les fichiers déjà existant pour patcher le jeu.
 
 ### AION (Obligatoire) Classic Patch FR - Fichiers principaux à télécharger ! Compatible MàJ du 23.06.2021
-* Patch Principal FR : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.1PFR/AionCLassic-PatchFR-Lang-1.1.1.zip
-* Patch Prncipal EN : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.1.0PEN/AionCLassic-PatchEN-Lang-1.1.0.zip
+* Patch Principal FR : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.2.0PFR/AionCLassic-PatchFR-Lang-1.2.0.zip
+
 
 ### AION (Facultatif) Patch Gui Oriana - Interface en jeu (un seul au choix) :
 * Patch OrianaGUI Purple : https://github.com/Lunastellia/OrianaMOD-AionClassic/releases/download/1.0.2GUI/OrianaGUI-1.0.2.zip
